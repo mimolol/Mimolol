@@ -9,7 +9,7 @@ I'm Mohamed aka Mimo and i'm a student and developer.
 
 **I do game development on Unity and Unreal engine.**
 
-I intend to publish some of my projects on itch.io soon, I'll put the links here as soon when it's done (And may even make some of the repositories public here on GitHub).
+I intend to publish some of my projects on itch.io soon, I'll put the links here when it's done (And may even make some of the repositories public here on GitHub).
 
 **I also do development on asp.net in C#, on Node.js and others.**
 
