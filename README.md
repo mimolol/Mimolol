@@ -13,7 +13,7 @@ I intend to publish some of my projects on itch.io soon, I'll put the links here
 
 **I also do development on asp.net in C#, on Node.js and others.**
 
-I should soon be publishing some of these projects here.
+I should soon be publishing some of these projects here, or make thoses already here public.
 
 ***Come visit [My Portflio](http://mimolol.github.io/)***
 
