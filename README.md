@@ -15,5 +15,6 @@ I intend to publish some of my projects on itch.io soon, I'll put the links here
 
 I should soon be publishing some of these projects here.
 
-***[My Portflio](http://mimolol.github.io/)***
+***Come visit [My Portflio](http://mimolol.github.io/)***
+
 I'm still working on it, it only contains a few projects now.
