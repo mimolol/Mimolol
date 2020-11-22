@@ -7,11 +7,13 @@ I will gradually publish my work here.
 
 I'm Mohamed Bouyakhlef aka Mimo and i'm a student and developer.
 
-**I do game development on Unity and Unreal engine.**
+**I do web development.**
+
+Backend and Frontend.
+
+**I also do game development on Unity and Unreal engine.**
 
 I intend to publish some of my projects soon, I'll put the links here when it's done.
-
-**I also do web development.**
 
 
 ***Come visit [My Portflio](http://mimolol.github.io/)***
